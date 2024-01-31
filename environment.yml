@@ -10,6 +10,6 @@ dependencies:
 - numpy
 #- tqdm
 - matplotlib
-#- seaborn
+- seaborn
 - scikit-learn
 - jupyter
